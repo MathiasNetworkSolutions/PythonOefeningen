@@ -4,7 +4,7 @@
 Things that are included:
 
 - exercises
-- commends
+- comments
 - tears
 
 
