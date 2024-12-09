@@ -11,7 +11,7 @@ https://api.github.com/users/MathiasNetworkSolutions/repos
 
 
 get all commits from specific repo:  
-(syntax: https://api.github.com/repos/MathiasNetworkSolutions/<repo-naam>/commits?sha=<branch-naam>)
+(syntax: https://api.github.com/repos/MathiasNetworkSolutions/<repo-naam>/commits)
 
 
 https://api.github.com/repos/MathiasNetworkSolutions/PythonOefeningen/commits
